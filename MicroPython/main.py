@@ -11,7 +11,6 @@ import random
 # variables
 random_number = -1
 
-random_number = -1
 display.clear()
 display.show(Image.HAPPY)
 
