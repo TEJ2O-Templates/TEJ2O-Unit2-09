@@ -1,7 +1,7 @@
 """
 Created by: Mr. Coxall
 Created on: Sep 2020
-This module is a Micro:bit MicroPython program
+This program shows an If Statement
 """
 
 from microbit import *
